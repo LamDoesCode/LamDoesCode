@@ -4,6 +4,7 @@
 - 📫 How to reach me: hoaquoclam11@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i like to work at home
+- i do programming as a hobby
 
 <!---
 LamDoesCode/LamDoesCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
